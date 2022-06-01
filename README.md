@@ -1,4 +1,4 @@
-
+<img src="assets/logo.jpg">
 <p align="center">Npcy Whatsapp Bot Multi Device</p>
 <div align="center">
 
