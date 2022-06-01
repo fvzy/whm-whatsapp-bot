@@ -23,7 +23,7 @@ addpack user | pack
 
 ## Config
 
-Isi semua yang dibutuhkan di file [`config.json`](/blob/main/config.js)<br />
+Isi semua yang dibutuhkan di file [`config.js`](https://github.com/itszyNPC/whm-whatsapp-bot/blob/main/config.js)<br />
 
 ## Request atau report bug
 
